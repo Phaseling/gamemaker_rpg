@@ -55,11 +55,27 @@
             }
         },
         {
+            "Key": "23575a21-aa1e-4d67-ad15-51b64867edff",
+            "Value": {
+                "id": "1fdca7d0-dd91-4142-b1d2-64072d78dfdd",
+                "resourcePath": "sprites\\fighter_walking_spritesheet\\fighter_walking_spritesheet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "243acf9d-8e07-4a7e-abcc-ae679954edd5",
             "Value": {
                 "id": "c598e59b-e3fe-492d-b5d4-bbe8f28d41c6",
                 "resourcePath": "views\\243acf9d-8e07-4a7e-abcc-ae679954edd5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2b38e1c4-f497-46b9-81f3-208ca6d5ccf6",
+            "Value": {
+                "id": "735c37de-8650-44d6-adab-eef342b12e3d",
+                "resourcePath": "sprites\\fighter_attacking_spear_spritesheet\\fighter_attacking_spear_spritesheet.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -92,6 +108,14 @@
                 "id": "add96e2c-2bea-4f52-b95a-0f96546b5b5f",
                 "resourcePath": "views\\64fd0d1e-dbaa-4074-9d36-673f845edbea.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "657e4e67-418a-4322-8353-394b371fdf1d",
+            "Value": {
+                "id": "13a6ace5-5c38-45bc-a34d-e0be53820b5e",
+                "resourcePath": "sprites\\spr_fighter_attack_up\\spr_fighter_attack_up.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -159,11 +183,27 @@
             }
         },
         {
+            "Key": "c62682b2-d779-4882-b048-cec0cbe9c348",
+            "Value": {
+                "id": "c19496f1-20c4-460f-b27b-0ca7909d90fa",
+                "resourcePath": "sprites\\spr_fighter_attack_down\\spr_fighter_attack_down.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "6b7b8ca5-4224-40b6-9d3b-0bb58c1b27a0",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cdaea269-2066-4b0b-9faf-ecd13991c21e",
+            "Value": {
+                "id": "6d15a5b8-7a3f-4660-8448-162c1bf374e3",
+                "resourcePath": "sprites\\spr_fighter_attack_right\\spr_fighter_attack_right.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -180,6 +220,14 @@
                 "id": "d9e74c16-c92b-4811-96ef-cac2eb1b77e1",
                 "resourcePath": "views\\d1bf0db0-e677-40f5-aa5d-8f7bc8af411e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "df4cf597-96cb-4018-8292-afff8972c7fa",
+            "Value": {
+                "id": "df94fcd8-50d8-4d96-b4d1-a410da2d44da",
+                "resourcePath": "sprites\\spr_fighter_attack_left\\spr_fighter_attack_left.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
